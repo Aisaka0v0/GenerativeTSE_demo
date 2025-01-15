@@ -7,7 +7,9 @@ This is the demonstration page of the paper "Enhancing Intelligibility for Gener
 <!-- [![github](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Aisaka0v0/CLAPSep)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/AisakaMikoto/CLAPSep) -->
 
-
+<div align="center">
+  <img src="demo/main.jpg" alt="Main figure" width="500"/>
+</div>
 
 ## Abstract
 
